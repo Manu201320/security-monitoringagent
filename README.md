@@ -6,7 +6,7 @@ This is a **professional, industry-ready** capstone project that implements an A
 
 ### Key Features
 
-- ✅ **Real-time Cloud Activity Monitoring**
+- ✅ **Cloud Activity Monitoring using Simulated Logs**
 - ✅ **ML-Based Anomaly Detection** (Isolation Forest Algorithm)
 - ✅ **Intelligent Attack Classification** (9 threat types)
 - ✅ **Professional SOC-Style Dashboard**
